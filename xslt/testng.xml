@@ -1,0 +1,35 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+ 
+<suite name="TestAll">
+ 
+	<test name="order3">
+		<classes>
+			<class name="test.Class3" />
+			
+			
+		</classes>
+	</test>
+    <test name="order">
+		<classes>
+			<class name="test.Class4" />
+			
+			
+		</classes>
+	</test>
+	<test name="order1">
+		<classes>
+			<class name="test.Class5" />
+			
+			
+		</classes>
+	<test name="order1">
+		<classes>
+			<class name="test.Monster" />
+			
+			
+		</classes>
+	</test>
+     
+     
+	
+</suite>

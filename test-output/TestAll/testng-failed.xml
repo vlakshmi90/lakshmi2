@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [TestAll]">
+  <test name="order3(failed)">
+    <classes>
+      <class name="prog.Facebook">
+        <methods>
+          <include name="testYahooTest"/>
+        </methods>
+      </class> <!-- prog.Facebook -->
+    </classes>
+  </test> <!-- order3(failed) -->
+</suite> <!-- Failed suite [TestAll] -->
